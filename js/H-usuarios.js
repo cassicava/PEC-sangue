@@ -5,7 +5,7 @@ const usuariosHabilitados = [
         genero: "F"
     },
          {
-        usuario: "BELA",
+        usuario: "bela",
         senha: "123456",
         genero: "F"
     },
